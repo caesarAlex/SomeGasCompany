@@ -1,0 +1,22 @@
+﻿.k-chart
+{
+    clear: both;
+}
+
+.k-state-selected
+{
+    background: transparent url(../../../Bootstrap/img/qgcops-filter-bg.png) center top no-repeat !important;
+    font-family: 'dosissemibold';
+    line-height: 30px;
+    padding-bottom: 10px;
+}
+
+.k-grid-header .k-header
+{
+    text-align: center;
+}
+
+.qgcops-filter .k-widget
+{
+    border: 0px;
+}
